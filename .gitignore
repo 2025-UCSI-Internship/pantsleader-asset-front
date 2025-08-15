@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+
+# builds
+.svelte-kit/
+dist/
+build/
+.vite/
+
+# env
+.env
+.env.*
+
+# editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
