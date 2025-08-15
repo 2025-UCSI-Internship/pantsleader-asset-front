@@ -52,29 +52,3 @@ npm install
 3) 개발 서버 실행
 npm run dev
 
-
-브라우저에서 http://localhost:5173 접속
-
-📜 기여 방법
-
-새로운 브랜치 생성:
-
-git checkout -b feature/기능명
-
-
-기능 구현 및 커밋:
-
-git commit -m "feat: 기능 설명"
-
-
-원격 브랜치 푸시 후 PR 생성:
-
-git push origin feature/기능명
-
-👥 팀원
-
-프론트엔드 개발: Junseong Park
-
-백엔드 개발: 팀원 이름
-
-프로젝트 매니저: 팀원 이름
